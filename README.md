@@ -1,6 +1,16 @@
 # Proy02_E1
 Repo del Proyecto #2 de Teoría de Lenguajes de Programación, Equipo 1
 
+## Integrantes:
+
+* Aguilar Pérez Johan Ricardo
+* Alcocer Herrera Julio César
+* Cabrera Alcocer Herberth Josueh
+* Córdova Martínez Ricardo
+
+## Descripción de la actividad
+
+Recopilación de 10 ejercicios de programación funcional utlizando funciones recursivas en el lenguaje de Racket, implementados en un Jupyter Notebook con ayuda del kernel iRacket para el mismo. Para cada ejercicio se definió una función específica que retorna el resultado correspondiente.
 
 ## Proceso de instalación: Jupyter Notebook
 
